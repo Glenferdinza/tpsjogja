@@ -1,0 +1,27 @@
+name,lat,lon,amenity,source,city,district_estimate,priority_hint,is_ngaglik_bbox
+TPS Tanpa Nama,-7.7197192,110.3637671,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Ngaglik,medium,True
+TPS 3R Brama Muda,-7.7142237165,110.3909303692,seed_reference,seed:slide-reference,Kabupaten Sleman / DIY,Ngaglik,high,True
+TPS Sumberan Sariharjo,-7.7276620209,110.3861238507,seed_reference,seed:slide-reference,Kabupaten Sleman / DIY,Ngaglik,high,True
+TPS Al Azhar,-7.7470532503,110.3768541365,seed_reference,seed:slide-reference,Kabupaten Sleman / DIY,Ngaglik,high,True
+TPS 3R GIAAAAT,-7.7358268577,110.4034616495,seed_reference,seed:slide-reference,Kabupaten Sleman / DIY,Ngaglik,high,True
+TPS Pondok,-7.7405896062,110.4043199564,seed_reference,seed:slide-reference,Kabupaten Sleman / DIY,Ngaglik,high,True
+TPS Kasturi,-7.7460326815,110.4077531839,seed_reference,seed:slide-reference,Kabupaten Sleman / DIY,Ngaglik,high,True
+Onderdil Mobil Bekas Sekarsuli,-7.8219587,110.4229992,recycling,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Sleman,medium,False
+Rumah Berhantu,-7.7485321,110.4504255,waste_disposal,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Sleman,high,False
+TPS Sampah,-7.8111955,110.3454804,waste_disposal,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Sleman,high,False
+bu Daryanti ketua Bank Sampah,-7.562612,110.8275649,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,DIY,medium,False
+Bank Sampah Mugi Rejeki,-7.5637434,110.827125,recycling,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,DIY,medium,False
+Tempat Pembuangan Sampah,-7.6306434,110.4460085,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Sleman,medium,False
+TPA Sampah Joho,-7.7201491,110.5110346,recycling,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Sleman,medium,False
+Bank Sampah,-7.5300869,110.8222113,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,DIY,medium,False
+TPA Piyungan,-7.8699284,110.4300062,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Bantul,medium,False
+TPA Sampah Banyuroto,-7.8022293,110.1847145,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Kulon Progo,medium,False
+TPA Sampah Banyuroto,-7.8025908,110.1853548,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Kulon Progo,medium,False
+Pengepul Rongsokan,-7.584345,110.8375445,recycling,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,DIY,medium,False
+TPS 3R Ben Resik,-7.6624136,110.3263686,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Sleman,medium,False
+TPS Tanpa Nama,-7.7624698,110.371788,recycling,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Sleman,medium,False
+TPS Argolubang,-7.7903063,110.3805321,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Sleman,medium,False
+TPS Tanpa Nama,-7.7879582,110.3878878,waste_transfer_station,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,Sleman,high,False
+Pengolahan Rosok Budi Utama,-7.6251623,110.7536011,recycling,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,DIY,medium,False
+Tempat Pembuangan Akhir Troketon,-7.6787919,110.7198945,unknown,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,DIY,medium,False
+Bank Sampah Desa Wangen,-7.6046197,110.658415,recycling,overpass:DIY Yogyakarta,Kabupaten Sleman / DIY,DIY,medium,False
